@@ -1,8 +1,8 @@
-package edu.cibertec.matricula.service.impl;
+package bootcamp.reto.service.impl;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import edu.cibertec.matricula.dao.entity.UsuarioDTO;
+import bootcamp.reto.dao.entity.UsuarioDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

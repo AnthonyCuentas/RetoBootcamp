@@ -1,10 +1,7 @@
-package edu.cibertec.matricula.dao.entity;
+package bootcamp.reto.dao.entity;
 
-import jakarta.persistence.Entity;
 import lombok.Data;
 
-import java.time.LocalDateTime;
-import java.util.Arrays;
 
 @Data
 public class UsuarioDTO {
