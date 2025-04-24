@@ -1,0 +1,13 @@
+
+#Manejar los cursos / brindarle el mantenimiento a los cursos usando lombok y spring boot
+- agregar lo requerido para trabajar con cursos
+
+##Caracteristicas de los atributos
+-idCurso: el identificador del curso
+-nomCurso: el nombre del curso a generar
+-fechaInicio: la fecha tentativa a iniciar el curso
+-alumnosMin: cantidad de alumnos minimo requerido para iniciar un curso
+-alumnosAct: cantidad de los alumnos actuales dentro del curso
+-estado: el estado del curso, ejemplo: iniciado, cancelado, en proceso, esperando validacion, etc.
+
+-->Atraves de lombok se reducira la cantidad de codigo e implementaciones con Spring Boot
